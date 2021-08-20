@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Katomi_Assessment/static/css/main.d9355e0c.chunk.css",
+    "main.js": "/Katomi_Assessment/static/js/main.d63bc53f.chunk.js",
+    "main.js.map": "/Katomi_Assessment/static/js/main.d63bc53f.chunk.js.map",
+    "runtime-main.js": "/Katomi_Assessment/static/js/runtime-main.b50a2622.js",
+    "runtime-main.js.map": "/Katomi_Assessment/static/js/runtime-main.b50a2622.js.map",
+    "static/js/2.cc42f6e1.chunk.js": "/Katomi_Assessment/static/js/2.cc42f6e1.chunk.js",
+    "static/js/2.cc42f6e1.chunk.js.map": "/Katomi_Assessment/static/js/2.cc42f6e1.chunk.js.map",
+    "static/js/3.d5dd8f77.chunk.js": "/Katomi_Assessment/static/js/3.d5dd8f77.chunk.js",
+    "static/js/3.d5dd8f77.chunk.js.map": "/Katomi_Assessment/static/js/3.d5dd8f77.chunk.js.map",
+    "index.html": "/Katomi_Assessment/index.html",
+    "static/css/main.d9355e0c.chunk.css.map": "/Katomi_Assessment/static/css/main.d9355e0c.chunk.css.map",
+    "static/js/2.cc42f6e1.chunk.js.LICENSE.txt": "/Katomi_Assessment/static/js/2.cc42f6e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50a2622.js",
+    "static/js/2.cc42f6e1.chunk.js",
+    "static/css/main.d9355e0c.chunk.css",
+    "static/js/main.d63bc53f.chunk.js"
+  ]
+}
